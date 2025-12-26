@@ -11,7 +11,7 @@
 [![Encryption](https://img.shields.io/badge/Encryption-🔒E2E-red.svg)](#)
 [![Status](https://img.shields.io/badge/Status-🔥Production%20Ready-orange.svg)](#)
 
-### ** What's New in Async Version:**
+### What's New in Async Version:
 - **Lightning Fast**: Full async/await support with aiohttp
 - **Auto Token Refresh**: Never worry about expired tokens again  
 - **Backward Compatible**: Same API as sync version, just add `await`
