@@ -11,28 +11,26 @@
 [![Encryption](https://img.shields.io/badge/Encryption-🔒E2E-red.svg)](#)
 [![Status](https://img.shields.io/badge/Status-🔥Production%20Ready-orange.svg)](#)
 
----
-
-### **🎯 What's New in Async Version:**
-- ⚡️ **Lightning Fast**: Full async/await support with aiohttp
-- 🔄 **Auto Token Refresh**: Never worry about expired tokens again  
-- 🎨 **Backward Compatible**: Same API as sync version, just add `await`
-- 🛠️ **Easy Migration**: Simple `async with` context manager
-- 🔧 **One-Line Config**: Use `configure_tokens()` for instant setup
+### ** What's New in Async Version:**
+- **Lightning Fast**: Full async/await support with aiohttp
+- **Auto Token Refresh**: Never worry about expired tokens again  
+- **Backward Compatible**: Same API as sync version, just add `await`
+- **Easy Migration**: Simple `async with` context manager
+- **One-Line Config**: Use `configure_tokens()` for instant setup
 
 </div>
 
 
-## 🎭 **What This Beast Can Do**
+## **What This Beast Can Do**
 
 This unofficial ProtonMail API client lets you:
-- 📧 **Send & receive** encrypted messages  
-- 📎 **Download & upload** attachments
-- 🎨 **Render HTML** emails with embedded images
-- 🔍 **Search & filter** your mailbox
-- 🏷️ **Manage labels** and conversations
-- 💾 **Save sessions** for seamless re-authentication
-- 🎯 **Event polling** for real-time updates
+-  **Send & receive** encrypted messages  
+-  **Download & upload** attachments
+-  **Render HTML** emails with embedded images
+-  **Search & filter** your mailbox
+-  **Manage labels** and conversations
+-  **Save sessions** for seamless re-authentication
+-  **Event polling** for real-time updates
 
 > ⚠️ **Migration Notice**: This forked library is now **fully async**! All network operations require `async with` and `await`. If you're upgrading from the sync version, check the migration guide below.
 
