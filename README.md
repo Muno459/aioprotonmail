@@ -3,6 +3,7 @@
 # ⚡️ **aioprotonmail** ⚡️
 
 ### 🚀 **Blazing Fast** • 🔐 **Secure** • 🛠️ **Developer Friendly** • 🌊 **Fully Async**
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![Async](https://img.shields.io/badge/Async-aiohttp-green.svg)](https://aiohttp.readthedocs.io)
@@ -17,8 +18,6 @@
 - **Backward Compatible**: Same API as sync version, just add `await`
 - **Easy Migration**: Simple `async with` context manager
 - **One-Line Config**: Use `configure_tokens()` for instant setup
-
-</div>
 
 
 ## **What This Beast Can Do**
